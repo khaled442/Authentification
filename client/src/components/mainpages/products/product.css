@@ -1,0 +1,12 @@
+.list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    /* background: linear-gradient(120deg, #2980b9, #ae97b8); */
+    background-image: url('https://static.vecteezy.com/ti/vecteur-libre/p1/518397-courber-et-melanger-l-39-arriere-plan-007-vectoriel.jpg');
+    font-family: "Courier New", Courier, monospace;
+    background-size: cover;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
